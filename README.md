@@ -1,0 +1,2 @@
+# jssodev
+java script ödevlerim
